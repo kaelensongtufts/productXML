@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Colorful Collage Pants</name>
+        <description>Multicolored pants with intricate stitching and patchwork</description>
+        <price>$45</price>
+        <categories>
+            <category>clothing</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Classic Leather Jacket</name>
+        <description>Genuine leather biker jacket</description>
+        <price>$120</price>
+        <categories>
+            <category>clothing</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Retro Sunglasses</name>
+        <description>Rectangular frame 70s-style sunglasses</description>
+        <price>$50</price>
+        <categories>
+            <category>accessories</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Canvas Backpack</name>
+        <description>Durable and stylish canvas backpack from the 60s</description>
+        <price>$75</price>
+        <categories>
+            <category>accessories</category>
+            <category>vintage</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Combat-Style Leather Boots</name>
+        <description>Brown leather boots with buckle details</description>
+        <price>$150</price>
+        <categories>
+            <category>shoes</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Casio Watch</name>
+        <description>Silver casio watch from Japan</description>
+        <price>$200</price>
+        <categories>
+            <category>electronics</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Linen Pants</name>
+        <description>Comfy, white, linen pants</description>
+        <price>$45</price>
+        <categories>
+            <category>clothing</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Digital Camera</name>
+        <description>2010 Canon digital camera</description>
+        <price>$90</price>
+        <categories>
+            <category>electronics</category>
+        </categories>
+    </product>
+</products>
